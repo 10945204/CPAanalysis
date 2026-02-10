@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="980" viewBox="0 0 1400 980">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#f7f9fc"/>
+    <stop offset="100%" stop-color="#edf1f8"/>
+  </linearGradient>
+  <filter id="cardShadow" x="-10%" y="-10%" width="130%" height="130%">
+    <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#8fa2c0" flood-opacity="0.2"/>
+  </filter>
+</defs>
+<rect x="0" y="0" width="1400" height="980" fill="url(#bg)"/>
+<text x="90" y="72" font-size="44" font-family="Segoe UI, Arial, sans-serif" font-weight="700" fill="#1d2d44">CPA Pathway Survey: Key Findings</text>
+<text x="90" y="110" font-size="22" font-family="Segoe UI, Arial, sans-serif" fill="#334e68">Distribution of responses across five high-impact decision questions</text>
+<text x="90" y="140" font-size="18" font-family="Segoe UI, Arial, sans-serif" fill="#486581">n = 201 completed responses</text>
+<rect x="70" y="126" width="1260" height="92" rx="16" fill="#ffffff" filter="url(#cardShadow)"/>
+<text x="90" y="162" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="600" fill="#102a43">Likelihood of pursuing CPA license</text>
+<rect x="520.0" y="170" width="51.0" height="46" fill="#8b1e3f"/>
+<text x="577.0" y="198" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#334e68">6.5%</text>
+<rect x="571.0" y="170" width="82.3" height="46" fill="#d8576b"/>
+<text x="659.3" y="198" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#334e68">10.6%</text>
+<rect x="653.3" y="170" width="90.2" height="46" fill="#b0b7c3"/>
+<text x="749.4" y="198" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#334e68">11.6%</text>
+<rect x="743.4" y="170" width="243.0" height="46" fill="#58a4b0"/>
+<text x="864.9" y="191" text-anchor="middle" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="600">Somewhat likely</text>
+<text x="864.9" y="209" text-anchor="middle" font-size="15" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="700">31.2%</text>
+<rect x="986.4" y="170" width="313.6" height="46" fill="#1d7a8c"/>
+<text x="1143.2" y="191" text-anchor="middle" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="600">Very likely</text>
+<text x="1143.2" y="209" text-anchor="middle" font-size="15" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="700">40.2%</text>
+<rect x="70" y="266" width="1260" height="92" rx="16" fill="#ffffff" filter="url(#cardShadow)"/>
+<text x="90" y="302" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="600" fill="#102a43">Alternative pathway's impact on CPA desire</text>
+<rect x="520.0" y="310" width="10.8" height="46" fill="#8b1e3f"/>
+<text x="536.8" y="338" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#334e68">1.4%</text>
+<rect x="530.8" y="310" width="10.8" height="46" fill="#d8576b"/>
+<text x="547.5" y="338" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#334e68">1.4%</text>
+<rect x="541.5" y="310" width="338.9" height="46" fill="#b0b7c3"/>
+<text x="711.0" y="331" text-anchor="middle" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="600">No change in desire</text>
+<text x="711.0" y="349" text-anchor="middle" font-size="15" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="700">43.4%</text>
+<rect x="880.4" y="310" width="333.5" height="46" fill="#58a4b0"/>
+<text x="1047.2" y="331" text-anchor="middle" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="600">Increased desire</text>
+<text x="1047.2" y="349" text-anchor="middle" font-size="15" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="700">42.8%</text>
+<rect x="1213.9" y="310" width="86.1" height="46" fill="#1d7a8c"/>
+<text x="1306.0" y="338" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#334e68">11.0%</text>
+<rect x="70" y="406" width="1260" height="92" rx="16" fill="#ffffff" filter="url(#cardShadow)"/>
+<text x="90" y="442" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="600" fill="#102a43">Alternative pathway's impact on graduate degree desire</text>
+<rect x="520.0" y="450" width="69.9" height="46" fill="#8b1e3f"/>
+<text x="595.9" y="478" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#334e68">9.0%</text>
+<rect x="589.9" y="450" width="177.5" height="46" fill="#d8576b"/>
+<text x="678.7" y="471" text-anchor="middle" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="600">Decreased desire</text>
+<text x="678.7" y="489" text-anchor="middle" font-size="15" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="700">22.8%</text>
+<rect x="767.4" y="450" width="344.3" height="46" fill="#b0b7c3"/>
+<text x="939.6" y="471" text-anchor="middle" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="600">No change in desire</text>
+<text x="939.6" y="489" text-anchor="middle" font-size="15" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="700">44.1%</text>
+<rect x="1111.7" y="450" width="166.8" height="46" fill="#58a4b0"/>
+<text x="1195.1" y="471" text-anchor="middle" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="600">Increased desire</text>
+<text x="1195.1" y="489" text-anchor="middle" font-size="15" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="700">21.4%</text>
+<rect x="1278.5" y="450" width="21.5" height="46" fill="#1d7a8c"/>
+<text x="1306.0" y="478" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#334e68">2.8%</text>
+<rect x="70" y="546" width="1260" height="92" rx="16" fill="#ffffff" filter="url(#cardShadow)"/>
+<text x="90" y="582" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="600" fill="#102a43">Overall perception of CPA pathway change</text>
+<rect x="520.0" y="590" width="3.9" height="46" fill="#8b1e3f"/>
+<text x="529.9" y="618" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#334e68">0.5%</text>
+<rect x="523.9" y="590" width="51.0" height="46" fill="#d8576b"/>
+<text x="580.9" y="618" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#334e68">6.5%</text>
+<rect x="574.9" y="590" width="184.2" height="46" fill="#b0b7c3"/>
+<text x="667.0" y="611" text-anchor="middle" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="600">Neutral</text>
+<text x="667.0" y="629" text-anchor="middle" font-size="15" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="700">23.6%</text>
+<rect x="759.1" y="590" width="278.3" height="46" fill="#58a4b0"/>
+<text x="898.2" y="611" text-anchor="middle" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="600">Somewhat Positive</text>
+<text x="898.2" y="629" text-anchor="middle" font-size="15" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="700">35.7%</text>
+<rect x="1037.4" y="590" width="262.6" height="46" fill="#1d7a8c"/>
+<text x="1168.7" y="611" text-anchor="middle" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="600">Very Positive</text>
+<text x="1168.7" y="629" text-anchor="middle" font-size="15" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="700">33.7%</text>
+<rect x="70" y="686" width="1260" height="92" rx="16" fill="#ffffff" filter="url(#cardShadow)"/>
+<text x="90" y="722" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="600" fill="#102a43">Attractiveness of shorter graduate certificate</text>
+<rect x="520.0" y="730" width="35.3" height="46" fill="#8b1e3f"/>
+<text x="561.3" y="758" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#334e68">4.5%</text>
+<rect x="555.3" y="730" width="39.2" height="46" fill="#d8576b"/>
+<text x="600.5" y="758" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#334e68">5.0%</text>
+<rect x="594.5" y="730" width="74.5" height="46" fill="#b0b7c3"/>
+<text x="674.9" y="758" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#334e68">9.5%</text>
+<rect x="668.9" y="730" width="301.8" height="46" fill="#58a4b0"/>
+<text x="819.8" y="751" text-anchor="middle" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="600">Somewhat attractive</text>
+<text x="819.8" y="769" text-anchor="middle" font-size="15" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="700">38.7%</text>
+<rect x="970.8" y="730" width="329.2" height="46" fill="#1d7a8c"/>
+<text x="1135.4" y="751" text-anchor="middle" font-size="13" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="600">Very attractive</text>
+<text x="1135.4" y="769" text-anchor="middle" font-size="15" font-family="Segoe UI, Arial, sans-serif" fill="#ffffff" font-weight="700">42.2%</text>
+<text x="90" y="940" font-size="14" font-family="Segoe UI, Arial, sans-serif" fill="#627d98">Source: Alternative CPA Pathways Survey (cleaned to completed responses only).</text>
+</svg>
