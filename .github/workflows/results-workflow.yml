@@ -1,0 +1,35 @@
+name: Results Workflow
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate-results:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Regenerate survey visual
+        run: python scripts/generate_survey_visual.py
+
+      - name: Verify generated results are up to date
+        run: |
+          git diff --exit-code -- visuals/cpa_survey_key_findings.svg
+
+      - name: Upload generated visual artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cpa-survey-key-findings
+          path: visuals/cpa_survey_key_findings.svg
